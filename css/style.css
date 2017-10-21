@@ -69,6 +69,10 @@ header a:hover {
 	color: #3882B6;
 }
 
+#featured a:hover {
+	text-decoration: underline;
+}
+
 
 
 #press img {
