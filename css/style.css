@@ -26,7 +26,7 @@ h1 {
 	margin: 0 0 5px;
 	font: bolder 5em 'Baskerville', serif;
 	color: #a4bfb6;
-	border-bottom: solid, 1px, #ccc;
+	border-bottom: solid 1px #ccc;
 }
 
 h2 {
