@@ -78,6 +78,11 @@ header a:hover {
 }
 
 #press img {
+	border: 5px #ccc solid;
+
+}
+
+#press img:hover {
 	border: 5px #727E7A solid;
 
 }
