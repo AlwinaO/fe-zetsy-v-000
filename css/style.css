@@ -31,7 +31,7 @@ h1 {
 
 h2 {
 	font-size: 2em;
-	color: #727E7A;
+	color: #69726E;
 
 }
 
@@ -51,6 +51,11 @@ p {
 header a {
 	color: #727E7A;
 	text-decoration: none;
+}
+
+header a:hover {
+	color: #69726E;
+	
 }
 
 section #featured {
