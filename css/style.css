@@ -48,10 +48,9 @@ p {
 
 /* Write all remaining styles here */
 
-header {
-	width: 960px;
-
-
+header a {
+	color: #727E7A;
+	text-decoration: none;
 }
 
 section #featured {
