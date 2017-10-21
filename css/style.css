@@ -2,7 +2,7 @@
 
 /* link the web font used for the level 1 heading here */
 @font-face {
-	font-family: 'Baskerville', serif; 
+	font-family: 'Baskerville', serif;
 	src: url(../fonts/Baskerville.ttc);
 }
 
@@ -24,7 +24,7 @@ body {
 /* Write all remaining styles here */
 
 h1 {
-	font: bolder 5em 'Libre Baskerville', serif;
+	font: bolder 5em 'Baskerville';
 	color: #a4bfb6;
 }
 
